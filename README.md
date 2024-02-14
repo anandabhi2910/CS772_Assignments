@@ -1,4 +1,4 @@
-## Assignment 1: Implementation of Backpropagation and Training a Palindrome Network
+## Assignment 1: Implementation of Backpropagation from scratch and Training a Palindrome Network
 ### Check if 10-bit string is palindrome or not
 Let’s take example of 10 bit string:
 “1000000000” : Not Palindrome
@@ -7,4 +7,4 @@ Let’s take example of 10 bit string:
 “0101010101” : Not Palindrome
 So I have generated all the possible combinations of 10 bit string from only [0,1]
 
-### Technique to be used: Neural network (BP from scratch)
+### Technique to be used: Neural network (BP from scratch using only numpy and pandas (without any external libraries))
