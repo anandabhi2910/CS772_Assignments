@@ -34,6 +34,7 @@ The packages/libraries listed in the text document contains all the packages tha
 #### assignment_1.ipynb
 
 Here you can find the "main" program to run/train this model.
+To run the cell block of this notebook, first select that cell and then click <kbd>shift</kbd> + <kbd>enter</kbd> and the cell will run and return output. Repeat this for other cells also.
 
 #### requirements.txt
 
